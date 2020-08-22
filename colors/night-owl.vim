@@ -1,10 +1,10 @@
 " ===============================================================
 " night-owl
 " 
-" URL: https://github.com/haishanh/night-owl.vim
-" Author: Haishan
+" URL: https://github.com/bspaulding/night-owl.vim
+" Author: Bradley
 " License: MIT
-" Last Change: 2020/04/19 12:37
+" Last Change: 2020/08/21 21:39
 " ===============================================================
 
 set background=dark

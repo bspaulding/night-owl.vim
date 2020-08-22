@@ -1,0 +1,39 @@
+white: '#403f53'
+bright: '#eeeeee' # TODO: couldn't find in night owl
+dark: '#d9d9d9'
+# still testing this color
+neardark: '#112630' # TODO: couldn't find in night owl
+# jsStorageClass
+# jsOperator
+# jsArrowFunction
+purple: '#d6438a'
+# jsGlobalNodeObjects
+green: '#E0AF02'
+# jsString
+yellow: '#c96765'
+# jsComment(italic)
+gray: '#989fb1'
+# jsFuncCall
+blue: '#288ed7'
+# hi jsNumber guifg=#f78c6c
+# hi jsSpecial guifg=#f78c6c
+yellow2: '#aa0982'
+yellow3: '#0c969b' # color wasn't in night owl, took from special in night owl
+yellow4: '#aa0982' # color wasn't in night owl, took from python special in night owl
+# hi jsObjectProp guifg=#7fdbca
+# hi jsOperatorKeyword guifg=#7fdbca
+green2: '#2AA298'
+# hi jsBooleanFalse guifg=#ff5874
+# hi jsBooleanTrue guifg=#ff5874
+red: '#bc5454'
+# hi jsRegexpString guifg=#5ca7e4
+blue2: '#5ca7e4'
+
+gray1: '#111111'
+gray2: '#222222'
+gray3: '#333333'
+gray4: '#444444'
+gray7: '#777777'
+graya: '#aaaaaa'
+purple2: '#2d2c5d'
+hoki: '#d9d9d9'
